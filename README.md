@@ -13,7 +13,7 @@ This project aims to:
 
 ## 📊 Dataset
 
-- Source: Brazilian E-Commerce Public Dataset by Olist
+- Source: Brazilian E-Commerce Public Dataset by Olist (https://www.kaggle.com/datasets/enzoschitini/brazilian-e-commerce-public-dataset-by-olist)
 - ~95,000 orders after preprocessing
 - Aggregated to **order-level** (one row per order)
 
